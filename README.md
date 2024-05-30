@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jai Dhingra</h1>
 <h3 align="center">A passionate Machine Learning Engineer</h3>
+<img align="right" alt="Coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=pTVgyAiJ&id=AF9B3A1FA5290975B7DFCDB4534A22DC6835FEC4&thid=OIP.pTVgyAiJAOJmiA93nazO1wHaFj&mediaurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f461802%2fscreenshots%2f4753031%2fdesignergif.gif&exph=600&expw=800&q=animated+coding+gif+for+github+with+a+cup+of+coffee&simid=608050074316189761&FORM=IRPRST&ck=27A54F382909E22CA83963C7E22C04A1&selectedIndex=30&itb=0">
 
 - 🔭 I’m currently working on **Code Generation Model using LLM**
 
