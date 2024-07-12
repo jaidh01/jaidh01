@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Machine Learning Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/461802/screenshots/4753031/designergif.gif">
 
-- 🔭 I’m currently working on **Code Generation Model using LLM**
+- 🔭 I’m currently working on **Yoga Pose Detection Model**
 
 - 🌱 I’m currently learning **Pandas, NumPy, Scikit-Learn, Matplotlib, TensorFlow, PyTorch, LLM, NLP, Generative AI**
 
