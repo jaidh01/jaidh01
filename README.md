@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/sanjay-k-v/">Jai</a> </h1>
+<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/sanjay-k-v/">Jai Dhingra</a> </h1>
 AI and Data Science student with a passion for building end-to-end AI/ML models and integrating them into Robotics and Drones.
 <!--- Adding Header Elements -->
 <p align="center">
