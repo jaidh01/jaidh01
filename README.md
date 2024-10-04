@@ -5,7 +5,7 @@ AI and Data Science student with a passion for building end-to-end AI/ML models 
 ![](https://komarev.com/ghpvc/?username=jaidh01)
 ![status](https://img.shields.io/badge/Open_To_Work-c70000) ![Linkedin Badge](https://img.shields.io/badge/-jai%20dhingra-0072b1?style=flat&logo=Linkedin&logoColor=white)
 ![HackerRank Badge](https://img.shields.io/badge/-HackerRank-EDBD2B?style=flat&logo=HackerRank&logoColor=white)
-</p>
+
 
 -----------------------------------------------------------
 - 🌱 **About Me :-**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
