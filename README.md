@@ -1,9 +1,10 @@
 <h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/jai-dhingra-412419259/">Jai Dhingra</a> </h1>
 AI and Data Science student with a passion for building end-to-end AI/ML models and integrating them into Robotics and Drones.
 <!--- Adding Header Elements -->
-<p align="center">
-  <a href="https://linkedin.com/in/jai dhingra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jai dhingra" height="20" width="40" /></a> - 
-  <a href="https://www.hackerrank.com/jaidhingra402" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jaidhingra402" height="30" width="40" /></a>
+
+![](https://komarev.com/ghpvc/?username=jaidh01)
+![status](https://img.shields.io/badge/Open_To_Work-c70000) ![Linkedin Badge](https://img.shields.io/badge/-jai%20dhingra-0072b1?style=flat&logo=Linkedin&logoColor=white)
+![HackerRank Badge](https://img.shields.io/badge/-HackerRank-EDBD2B?style=flat&logo=HackerRank&logoColor=white)
 </p>
 
 -----------------------------------------------------------
@@ -35,19 +36,15 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
 <img src="https://img.shields.io/badge/-Linux-EDBD2B?logo=Linux&logoColor=black&style=flat">&nbsp;
 
 <!--- 1st Section on GitHub Analytics -->
-
-<details>	
- <summary><b>⚙️ GitHub Analytics</b></summary>
+<b>⚙️ GitHub Analytics</b></summary>
 <a href="https://github.com/jai-dhingra">
    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaidh01&show_icons=true&locale=en&layout=compact" alt="jaidh01" /></p>
-   <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jai-dhingra&theme=2077" alt="Jai Dhingra" />
-</a>
-</details>     
+   <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaidh01&theme=2077" alt="Jai Dhingra" />
+</a>   
 
 <!--- 3rd Section on Recent Projects -->
 
-  <details>	
-    <summary><b>📚 Recent Projects/ Activity</b></summary><br>
+<b>📚 Recent Projects/ Activity</b></summary><br>
    
   ✨ [Speech to Image generator](https://github.com/jaidh01/Speech-to-Image)<br>
   ✨ [Yoga Pose Detection - Opencv and Mediapipe](https://github.com/jaidh01/Yoga-pose-detection)<br>
@@ -60,7 +57,7 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
 3. 💪 Opened PR [#14](https://github.com/Akasxh/Terrain-Recognition/pull/14) in [Akasxh/Terrain-Recognition](https://github.com/Akasxh/Terrain-Recognition)
 
   <!--END_SECTION:activity-->
-  </details> 
+ 
 
    </details> 
 
