@@ -52,6 +52,7 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
   ✨ [Twitter Tweets Scrapping and Sentiment Analysis](https://github.com/sanjay-kv/Twitter-Tweet-Analysis)<br>
 
   <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#23](https://github.com/Aryan-Chharia/Computer-Vision-Projects/pull/23) in [Aryan-Chharia/Computer-Vision-Projects](https://github.com/Aryan-Chharia/Computer-Vision-Projects)
 1. 💪 Opened PR [#23](https://github.com/Aryan-Chharia/Computer-Vision-Projects/pull/23) in [Aryan-Chharia/Computer-Vision-Projects](https://github.com/Aryan-Chharia/Computer-Vision-Projects)
 2. 🎉 Merged PR [#14](https://github.com/Akasxh/Terrain-Recognition/pull/14) in [Akasxh/Terrain-Recognition](https://github.com/Akasxh/Terrain-Recognition)
 3. 💪 Opened PR [#14](https://github.com/Akasxh/Terrain-Recognition/pull/14) in [Akasxh/Terrain-Recognition](https://github.com/Akasxh/Terrain-Recognition)
