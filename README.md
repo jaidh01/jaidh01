@@ -9,7 +9,7 @@ AI and Data Science student with a passion for building end-to-end AI/ML models 
 
 -----------------------------------------------------------
 - 🌱 **About Me :-**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
-- ✨ AI/ML Engineer | Contributor@GSSOC-extd 24 <br>
+- ✨ AI/ML Engineer | Open-Source Contributor <br>
 - 📫 How to reach me ✨ <a href="https://linkedin.com/in/jai dhingra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jai dhingra" height="20" width="40" /></a><br>
 - 👨🏻‍💻 All of my projects are available at [Portfolio](https://portfolioperfect.dorik.io/)<br>
 - 📄 Know more about my experiences [resume](https://jairesume.tiiny.site/)
@@ -40,9 +40,19 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-</a>
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+  <!---<img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" />
+   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" />
+   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />-->
+
+  
+  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" /></a>
 </div>
-<!--- 1st Section on GitHub Analytics -->
+
+<!--- 1st Section on GitHub Analytics  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" />-->
 <b>⚙️ GitHub Analytics</b></summary>
 <a href="https://github.com/jai-dhingra">
    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaidh01&show_icons=true&locale=en&layout=compact" alt="jaidh01" /></p>
