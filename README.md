@@ -63,10 +63,10 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
 
 <b>📚 Recent Projects/ Activity</b></summary><br>
    
+  ✨ [Vision Vault](https://github.com/jaidh01/VisionVault)<br>
   ✨ [Speech to Image generator](https://github.com/jaidh01/Speech-to-Image)<br>
-  ✨ [Yoga Pose Detection - Opencv and Mediapipe](https://github.com/jaidh01/Yoga-pose-detection)<br>
-  ✨ [Chatbot using deep learning](https://github.com/jaidh01/chatbot-with-deep-learning)<br> 
-  ✨ [Twitter Tweets Scrapping and Sentiment Analysis](https://github.com/sanjay-kv/Twitter-Tweet-Analysis)<br>
+  ✨ [Yoga Pose Detection - Opencv and Mediapipe](https://github.com/jaidh01/Yoga-pose-detection)<br> 
+  ✨ [Chatbot using deep learning](https://github.com/jaidh01/chatbot-with-deep-learning)<br>
 
   <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#23](https://github.com/Aryan-Chharia/Computer-Vision-Projects/pull/23) in [Aryan-Chharia/Computer-Vision-Projects](https://github.com/Aryan-Chharia/Computer-Vision-Projects)
