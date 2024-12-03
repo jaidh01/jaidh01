@@ -12,7 +12,7 @@ AI and Data Science student with a passion for building end-to-end AI/ML models 
 - ✨ AI/ML Engineer | Open-Source Contributor <br>
 - 📫 How to reach me ✨ <a href="https://linkedin.com/in/jai dhingra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jai dhingra" height="20" width="40" /></a><br>
 - 👨🏻‍💻 All of my projects are available at [Portfolio](https://jaisportfolio.vercel.app/)<br>
-- 📄 Know more about my experiences [resume](https://jairesume.tiiny.site/)
+- 📄 Know more about my experiences [resume](./assets/jai_dhingra_resume.pdf)
 - 💬 Ask me about AI/Machine Learning/Computer Vision.<br>
 <!--- Adding Tech Stack open Section -->
 
