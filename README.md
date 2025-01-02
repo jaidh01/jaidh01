@@ -6,8 +6,8 @@ AI and Data Science student with a passion for building end-to-end AI/ML models 
 ![status](https://img.shields.io/badge/Open_To_Work-c70000) ![Linkedin Badge](https://img.shields.io/badge/-jai%20dhingra-0072b1?style=flat&logo=Linkedin&logoColor=white)
 ![HackerRank Badge](https://img.shields.io/badge/-HackerRank-EDBD2B?style=flat&logo=HackerRank&logoColor=white)
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200"> 
 
------------------------------------------------------------
 - 🌱 **About Me :-**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 - ✨ AI/ML Engineer | Open-Source Contributor <br>
 - 📫 How to reach me ✨ <a href="https://linkedin.com/in/jai dhingra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jai dhingra" height="20" width="40" /></a><br>
@@ -79,6 +79,7 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
 
    </details> 
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200"> 
 <!--
 <a href=""><img src="https://img.shields.io/github/followers/sanjay-kv?style=social"></a>
 -->
