@@ -54,10 +54,18 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
 
 <!--- 1st Section on GitHub Analytics  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" />-->
 <b>⚙️ GitHub Analytics</b></summary>
-<a href="https://github.com/jai-dhingra">
-   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaidh01&show_icons=true&locale=en&layout=compact" alt="jaidh01" /></p>
-   <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaidh01&theme=2077" alt="Jai Dhingra" />
-</a>   
+<div align="center">
+  <!-- Streak Stats -->
+  <a href="https://github.com/jai-dhingra">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=jaidh01&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  </a>
+
+  <!-- Language Stats and Profile Summary in one row -->
+  <div style="display: inline-flex; gap: 10px; margin-top: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaidh01&show_icons=true&locale=en&layout=compact" alt="jaidh01" />
+    <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaidh01&theme=2077" alt="Jai Dhingra" />
+  </div>
+</div>
 
 <!--- 3rd Section on Recent Projects -->
 
