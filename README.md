@@ -17,7 +17,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200"> 
 
-🌱 **About Me :-**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+🌱 **About Me :-**<img src="https://github.com/jaidh01/jaidh01/blob/main/assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 - ✨ AI/ML Engineer | Open-Source Contributor <br>
 - 📫 How to reach me ✨ [![Gmail Badge](https://img.shields.io/badge/-jai-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jaidhingra402@gmail.com)](mailto:jaidhingra402@gmail.com) OR [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/jai-dhingra-412419259/)](https://www.linkedin.com/in/jai-dhingra-412419259/)
 - 👨🏻‍💻 All of my projects are available at [Portfolio](https://www.jaidhingra.tech/)<br>
