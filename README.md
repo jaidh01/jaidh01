@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/jai-dhingra-412419259/">Jai Dhingra</a> </h1>
 
 <div align="center">
- <a href="https://github.com/elfgk">
+ <a href="https://github.com/jaidh01">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%F0%9F%A4%96+An+AI/ML+Engineer;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
  </a>
 </div>
